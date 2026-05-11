@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+.env
+
+backend/app/resume/*.pdf
+backend/app/data/*.json
+
+ollama_data/
+qdrant_storage/
+
+.vscode/
+.idea/
+
+venv/
+.venv/
