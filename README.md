@@ -1,5 +1,8 @@
 # AI Job Match Analyzer
 
+*A half-hearted attempt to jump on the AI hype train — featuring FastAPI, LangChain, Qdrant, Ollama, and excessive semantic search.*
+
+
 AI-powered ATS resume analyzer using:
 - FastAPI
 - LangChain
